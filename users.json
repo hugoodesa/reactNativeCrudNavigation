@@ -1,0 +1,68 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "login": "anadesa",
+      "nome": "Ana Luiz Stapassoli de Sá",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "seguidores": 45,
+      "seguindo": 60,
+      "repositorios": [
+        {
+          "id": 4,
+          "nome": "react native its nice"
+        },
+        {
+          "id": 1682303415055,
+          "nome": "TypeScript"
+        },
+        {
+          "id": 1682303523310,
+          "nome": "Desing Patterns"
+        },
+        {
+          "id": 1682475427823,
+          "nome": "tailwind"
+        },
+        {
+          "id": 1682562343659,
+          "nome": "React"
+        },
+        {
+          "id": 1682563157125,
+          "nome": "React Jsssss"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "login": "luizadesa",
+      "nome": "Luiza Stapassoli de Sá",
+      "avatar": "https://engineering.unl.edu/images/staff/Kayla-Person.jpg",
+      "seguidores": 70,
+      "seguindo": 55,
+      "repositorios": [
+        {
+          "id": 1,
+          "nome": "java"
+        },
+        {
+          "id": 2,
+          "nome": "rabbit"
+        },
+        {
+          "id": 3,
+          "nome": "spring"
+        },
+        {
+          "id": 4,
+          "nome": "angular"
+        },
+        {
+          "id": 1682302545457,
+          "nome": "new repo"
+        }
+      ]
+    }
+  ]
+}
